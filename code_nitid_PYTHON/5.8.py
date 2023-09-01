@@ -1,0 +1,5 @@
+a = round(float(input()),2)
+b = round(float(input()),2)
+c = round(float(input()),2)
+d = round(float(input()),2)
+print(round(float((a*b*c*d)/(a+b+c+d)),2))

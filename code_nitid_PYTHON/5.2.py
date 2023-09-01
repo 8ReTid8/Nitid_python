@@ -1,0 +1,6 @@
+a = input()
+b = input()
+c = float(a)
+d = float(b)
+e = float(c/d)
+print(round(float(e),2))
